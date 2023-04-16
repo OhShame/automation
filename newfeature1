@@ -2,5 +2,6 @@ public class newfeature1 {
 	public static void main (String[] args) {
 		int i = 11;
 		System.out.println("Че пыришь, это тестовый проект" + i);
+
 	}
 }
