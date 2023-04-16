@@ -1,5 +1,5 @@
 public class newfeature1 {
 	public static void main (String[] args) {
-		System.out.println("Че пыришь, это тестовый проект");
+		System.out.println("Че пыришь, это тестовый проект, пес");
 	}
 }
